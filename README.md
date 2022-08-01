@@ -20,10 +20,11 @@ after a while, I made some wallpapers and then designed some themes for several 
 <br>
 </p>
 <!-- <img  src="https://i.imgur.com/V3XZCDS.png" width = 100% /> -->
+
 <div align=center>
 <table>
 <thead>
-<tr class="table100-head">
+<tr class="table100-head" width="100%" >
 <th class="column1"><img src="https://i.imgur.com/msQffZ3.png" width="22px"  style="padding: 10px;"></th>
 <th class="column1">#</th>
 <th class="column1">Color name</th>
