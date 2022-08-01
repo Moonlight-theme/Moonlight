@@ -24,6 +24,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <table>
 <thead>
 <tr class="table100-head">
+<th class="column1"><img src="https://i.imgur.com/msQffZ3.png" width="12px"></th>
 <th class="column1">#</th>
 <th class="column1">Color name</th>
 <th class="column2">HEX</th>
@@ -35,6 +36,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tbody>
 
 <tr>
+<td class="column1"><img src="https://i.imgur.com/2bF5ug6.png" width="12px"></td>
 <td class="column1">01</td>
 <td class="column1">Light 01</td>
 <td class="column2">#c0cedd</td>
@@ -43,6 +45,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column5">White moon</td>
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/z0W2XMH.png" width="12px"></td>
 <td class="column1">02</td>
 <td class="column1">Light 02</td>
 <td class="column2">#99a0a8</td>
@@ -51,6 +54,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column5">White moon</td>
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/Twx341h.png" width="12px"></td>
 <td class="column1">03</td>
 <td class="column1">light 03</td>
 <td class="column2">#c6c3c0</td>
@@ -59,6 +63,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column5">White moon</td>
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/8ewKu6L.png" width="12px"></td>
 <td class="column1">04</td>
 <td class="column1">Dark 01</td>
 <td class="column2">#191f28</td>
@@ -68,6 +73,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/Qm4ACUe.png" width="12px"></td>
 <td class="column1">05</td>
 <td class="column1">Dark 02</td>
 <td class="column2">#1f2730</td>
@@ -76,6 +82,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column5">Night sky</td>
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/sDOQZsK.png" width="12px"></td>
 <td class="column1">06</td>
 <td class="column1">Dark 03</td>
 <td class="column2">#374656</td>
@@ -84,6 +91,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column5">Night sky</td>
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/31VQs7M.png" width="12px"></td>
 <td class="column1">07</td>
 <td class="column1">Accent 01</td>
 <td class="column2">#ecbd7c</td>
@@ -93,6 +101,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/5829KFR.png" width="12px"></td>
 <td class="column1">08</td>
 <td class="column1">Accent 02</td>
 <td class="column2">#c69f68</td>
@@ -102,6 +111,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/fSAUHeb.png" width="12px"></td>
 <td class="column1">09</td>
 <td class="column1">Accent 03</td>
 <td class="column2">393764d</td>
@@ -111,6 +121,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/ObXYagt.png" width="12px"></td>
 <td class="column1">10</td>
 <td class="column1">Color 01</td>
 <td class="column2">#c68768</td>
@@ -120,6 +131,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/KOOqqmH.png" width="12px"></td>
 <td class="column1">11</td>
 <td class="column1">Color 02</td>
 <td class="column2">#c66868</td>
@@ -129,6 +141,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/HbmgcUc.png" width="12px"></td>
 <td class="column1">12</td>
 <td class="column1">Color 03</td>
 <td class="column2">#c66890</td>
@@ -138,6 +151,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/MHUboCJ.png" width="12px"></td>
 <td class="column1">13</td>
 <td class="column1">Color 04</td>
 <td class="column2">#6880c6</td>
@@ -147,6 +161,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 
 </tr>
 <tr>
+<td class="column1"><img src="https://i.imgur.com/yo3Np9o.png" width="12px"></td>
 <td class="column1">14</td>
 <td class="column1">Color 05</td>
 <td class="column2">#68aec6</td>
@@ -156,6 +171,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 </tr>
 
 <tr>
+<td class="column1"><img src="https://i.imgur.com/rvqHrxn.png" width="12px"></td>
 <td class="column1">15</td>
 <td class="column1">Color 06</td>
 <td class="column2">#9fc76d</td>
