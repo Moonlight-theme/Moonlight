@@ -20,7 +20,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <br>
 </p>
 <!-- <img  src="https://i.imgur.com/V3XZCDS.png" width = 100% /> -->
-
+<h2>The theme colors</h2>
 <div align=center>
 <table>
 <thead>
