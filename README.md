@@ -19,7 +19,7 @@ One day I saw <a href="https://kbdfans.com/products/ic-gmk-moonlight">Moonlight 
 after a while, I made some wallpapers and then designed some themes for several ports all have moonlight colors in common, then I came up with the color theme:
 <br>
 </p>
-<img  src="https://i.imgur.com/V3XZCDS.png" width = 100% />
+<!-- <img  src="https://i.imgur.com/V3XZCDS.png" width = 100% /> -->
 <div align=center>
 <table>
 <thead>
