@@ -191,7 +191,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 </div>
 <div>
 White moon is the Light color palette that mostly can be used as the text color.<br><br>
-&nbsp So color <code>light#01</code> is the brightest one which can be used primerly as a font color or as a bckground for white color themes.<br>
-&nbsp While color <code>light#02</code> is a bit more bluish to add some variation to the light colors.<br> 
-&nbsp On the other side color <code>light#03</code> is a bit more orange "hoter" color which serve the same purpos as color <code>light#02</code>.
+ So color <code>light#01</code> is the brightest one which can be used primerly as a font color or as a bckground for white color themes.<br>
+ While color <code>light#02</code> is a bit more bluish to add some variation to the light colors.<br> 
+ On the other side color <code>light#03</code> is a bit more orange "hoter" color which serve the same purpos as color <code>light#02</code>.
 </div>
