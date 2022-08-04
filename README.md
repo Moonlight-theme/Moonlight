@@ -115,7 +115,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/fSAUHeb.png" width="22px"  style="padding: 10px;"></td>
 <td class="column1">09</td>
 <td class="column1">Accent#03</td>
-<td class="column2">393764d</td>
+<td class="column2">#93764d</td>
 <td class="column3">rgb(147, 118, 77)</td>
 <td class="column4">hsl(35, 31%, 44%)</td>
 <td class="column5">Light</td>
