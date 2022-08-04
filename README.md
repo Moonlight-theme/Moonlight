@@ -183,17 +183,17 @@ after a while, I made some wallpapers and then designed some themes for several 
 </tbody>
 </table>
 </div>
-<h2>The theme color familias</h2>
+<h2>The theme color families</h2>
 
 <h3>White moon</h3>
 <div>
 <kbd>colors from 01 to 03</kbd>
 </div>
 <div>
-<strong>White moon is the Light color palette that mostly can be used as the text color.</strong><br>
- So color <code>light#01</code> is the brightest one which can be used primerly as a font color or as a bckground for white color themes.<br>
+<strong>White moon is the Light color palette that can mostly be used as the text color.</strong><br>
+ So color <code>light#01</code> is the brightest one that can be used primarily as font color or as a background for white color themes.<br>
  While color <code>light#02</code> is a bit more bluish to add some variation to the light colors.<br> 
- On the other side color <code>light#03</code> is a bit more orange "hoter" color which serve the same purpos as color <code>light#02</code>.
+ On the other side color <code>light#03</code> is a bit more orange "hotter" color which serve the same purpose as color <code>light#02</code>.
 </div>
 
 <br>
@@ -203,9 +203,9 @@ after a while, I made some wallpapers and then designed some themes for several 
 </div>
 <div>
 <strong>Night Sky is the primary dark color palette for the Moonlight color theme.</strong><br>
-Night Sky palette consist of three colors ranging from <code>dark#01</code> a dark bluish color that is very useful for an eye comfortable dark theme background. <br>
+Night Sky palette consists of three colors ranging from <code>dark#01</code> a dark bluish color that is very useful for an eye comfortable dark theme background. <br>
 While <code>dark#02</code> is a bit much brighter than <code>dark#01</code>.<br>
-Lastlly we have <code>dark#03</code> which is a high saturated and bright color with a distingushed contrast from color <code>dark#01</code>.
+Lastly we have <code>dark#03</code> which is a high saturated and bright color with a distinguished contrast from color <code>dark#01</code>.
 </div>
 
 <br>
@@ -215,7 +215,19 @@ Lastlly we have <code>dark#03</code> which is a high saturated and bright color 
 </div>
 <div>
 <strong>light is the accent color palette for the moonlight color theme.</strong><br>
-light is a yollow color variation that starts from color <code>accent#01</code> which is the britest color form this color palette. <br> 
-Then it is followd by the real accent color <code>accent#02</code> which looks incredable with the night sky family as a background.<br>
-And finishing with color <code>accent#03</code> which is the darkes variation of this family.
+light is a yellow color variation that starts from color <code>accent#01</code> which is the brightest color form this color palette. <br> 
+Then it is followed by the real accent color <code>accent#02</code> which looks incredible with the night sky family as a background.<br>
+And finishing with color <code>accent#03</code> which is the darkest variation of this family.
+</div>
+
+<br>
+<h3>​Frills</h3>
+<div>
+<kbd>colors from 10 to 15</kbd>
+</div>
+<div>
+<strong>​Frills colors are different hues colors ranging almost like the rainbow colors...
+the main use is for parts that require adding colorful variations, but with the "Moonlighty" feeling.</strong><br>
+Frills are the last family in the moonlight color theme which holds six colors with high hue variations and is mostly used to give some life to the themed result.<br>
+Starting with color <code>color#01</code> which is more of a orangic youllowish color, followd by <code>color#02</code> which is more orangic than <code>color#01</code>, going to <code>color#03</code> which is a nice less saturated light pink, followed by <code>color#04</code> a bluish purpleic color that males a very nice contarst with the backgriund color variations, then going for <code>color#05</code> a less purplic turquoise color, which male a buetiful companation with <code>color#06</code> a light grassy green color.
 </div>
