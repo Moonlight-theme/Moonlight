@@ -195,6 +195,7 @@ after a while, I made some wallpapers and then designed some themes for several 
  While color <code>light#02</code> is a bit more bluish to add some variation to the light colors.<br> 
  On the other side color <code>light#03</code> is a bit more orange "hoter" color which serve the same purpos as color <code>light#02</code>.
 </div>
+
 <br>
 <h3>Night sky</h3>
 <div>
@@ -205,4 +206,16 @@ after a while, I made some wallpapers and then designed some themes for several 
 Night Sky palette consist of three colors ranging from <code>dark#01</code> a dark bluish color that is very useful for an eye comfortable dark theme background. <br>
 While <code>dark#02</code> is a bit much brighter than <code>dark#01</code>.<br>
 Lastlly we have <code>dark#03</code> which is a high saturated and bright color with a distingushed contrast from color <code>dark#01</code>.
+</div>
+
+<br>
+<h3>Light</h3>
+<div>
+<kbd>colors from 07 to 09</kbd>
+</div>
+<div>
+<strong>light is the accent color palette for the moonlight color theme.</strong><br>
+light is a yollow color variation that starts from color <code>accent#01</code> which is the britest color form this color palette. <br> 
+Then it is followd by the real accent color <code>accent#02</code> which looks incredable with the night sky family as a background.<br>
+And finishing with color <code>accent#03</code> which is the darkes variation of this family.
 </div>
