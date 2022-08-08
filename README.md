@@ -39,7 +39,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/2bF5ug6.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">01</td>
-<td class="column1">Light#01</td>
+<td class="column1">Light-I</td>
 <td class="column2">#c0cedd</td>
 <td class="column3">rgb(192, 206, 221)</td>
 <td class="column4">hsl(211, 30%, 81%)</td>
@@ -48,7 +48,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/z0W2XMH.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">02</td>
-<td class="column1">Light#02</td>
+<td class="column1">Light-II</td>
 <td class="column2">#99a0a8</td>
 <td class="column3">rgb(153, 160, 168)</td>
 <td class="column4">hsl(212, 8%, 63%)</td>
@@ -57,7 +57,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/Twx341h.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">03</td>
-<td class="column1">light#03</td>
+<td class="column1">light-III</td>
 <td class="column2">#c6c3c0</td>
 <td class="column3">rgb(198, 195, 192)</td>
 <td class="column4">hsl(30, 5%, 76%)</td>
@@ -66,7 +66,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/8ewKu6L.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">04</td>
-<td class="column1">Dark#01</td>
+<td class="column1">Dark-I</td>
 <td class="column2">#191f28</td>
 <td class="column3">rgb(25, 31, 40)</td>
 <td class="column4">hsl(216, 23%, 13%)</td>
@@ -76,7 +76,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/Qm4ACUe.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">05</td>
-<td class="column1">Dark#02</td>
+<td class="column1">Dark-II</td>
 <td class="column2">#1f2730</td>
 <td class="column3">rgb(31, 39, 48)</td>
 <td class="column4">hsl(212, 22%, 15%)</td>
@@ -85,7 +85,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/sDOQZsK.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">06</td>
-<td class="column1">Dark#03</td>
+<td class="column1">Dark-III</td>
 <td class="column2">#374656</td>
 <td class="column3">rgb(55, 70, 86)</td>
 <td class="column4">hsl(211, 22%, 28%)</td>
@@ -94,7 +94,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/31VQs7M.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">07</td>
-<td class="column1">Accent#01</td>
+<td class="column1">Accent-I</td>
 <td class="column2">#ecbd7c</td>
 <td class="column3">rgb(236, 189, 124)</td>
 <td class="column4">hsl(35, 75%, 71%)</td>
@@ -104,7 +104,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/5829KFR.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">08</td>
-<td class="column1">Accent#02</td>
+<td class="column1">Accent-II</td>
 <td class="column2">#c69f68</td>
 <td class="column3">rgb(198, 159, 104)</td>
 <td class="column4">hsl(35, 45%, 59%)</td>
@@ -114,7 +114,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/fSAUHeb.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">09</td>
-<td class="column1">Accent#03</td>
+<td class="column1">Accent-III</td>
 <td class="column2">#93764d</td>
 <td class="column3">rgb(147, 118, 77)</td>
 <td class="column4">hsl(35, 31%, 44%)</td>
@@ -124,7 +124,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/ObXYagt.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">10</td>
-<td class="column1">Color#01</td>
+<td class="column1">Color-I</td>
 <td class="column2">#c68768</td>
 <td class="column3">rgb(198, 135, 104)</td>
 <td class="column4">hsl(20, 45%, 59%)</td>
@@ -134,7 +134,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/KOOqqmH.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">11</td>
-<td class="column1">Color#02</td>
+<td class="column1">Color-II</td>
 <td class="column2">#c66868</td>
 <td class="column3">rgb(198, 104, 104)</td>
 <td class="column4">hsl(0, 45%, 59%)</td>
@@ -144,7 +144,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/HbmgcUc.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">12</td>
-<td class="column1">Color#03</td>
+<td class="column1">Color-III</td>
 <td class="column2">#c66890</td>
 <td class="column3">rgb(198, 104, 144)</td>
 <td class="column4">hsl(334, 45%, 59%)</td>
@@ -154,7 +154,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/MHUboCJ.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">13</td>
-<td class="column1">Color#04</td>
+<td class="column1">Color-IV</td>
 <td class="column2">#6880c6</td>
 <td class="column3">rgb(104, 128, 198)</td>
 <td class="column4">hsl(225, 45%, 59%)</td>
@@ -164,7 +164,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/yo3Np9o.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">14</td>
-<td class="column1">Color#05</td>
+<td class="column1">Color-V</td>
 <td class="column2">#68aec6</td>
 <td class="column3">rgb(104, 174, 198)</td>
 <td class="column4">hsl(195, 45%, 59%)</td>
@@ -174,7 +174,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <tr>
 <td class="column1"><img src="https://i.imgur.com/rvqHrxn.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">15</td>
-<td class="column1">Color#06</td>
+<td class="column1">Color-VI</td>
 <td class="column2">#9fc76d</td>
 <td class="column3">rgb(159, 199, 109)</td>
 <td class="column4">hsl(87, 45%, 60%)</td>
@@ -191,9 +191,9 @@ after a while, I made some wallpapers and then designed some themes for several 
 </div>
 <div>
 <strong>White moon is the Light color palette that can mostly be used as the text color.</strong><br>
- So color <code>light#01</code> is the brightest one that can be used primarily as font color or as a background for white color themes.<br>
- While color <code>light#02</code> is a bit more bluish to add some variation to the light colors.<br> 
- On the other side color <code>light#03</code> is a bit more orange "hotter" color which serve the same purpose as color <code>light#02</code>.
+ So color <code>light-I</code> is the brightest one that can be used primarily as font color or as a background for white color themes.<br>
+ While color <code>light-II</code> is a bit more bluish to add some variation to the light colors.<br> 
+ On the other side color <code>light-III</code> is a bit more orange "hotter" color which serve the same purpose as color <code>light-II</code>.
 </div>
 
 <br>
@@ -203,9 +203,9 @@ after a while, I made some wallpapers and then designed some themes for several 
 </div>
 <div>
 <strong>Night Sky is the primary dark color palette for the Moonlight color theme.</strong><br>
-Night Sky palette consists of three colors ranging from <code>dark#01</code> a dark bluish color that is very useful for an eye comfortable dark theme background. <br>
-While <code>dark#02</code> is a bit much brighter than <code>dark#01</code>.<br>
-Lastly we have <code>dark#03</code> which is a high saturated and bright color with a distinguished contrast from color <code>dark#01</code>.
+Night Sky palette consists of three colors ranging from <code>dark-I</code> a dark bluish color that is very useful for an eye comfortable dark theme background. <br>
+While <code>dark-II</code> is a bit much brighter than <code>dark-I</code>.<br>
+Lastly we have <code>dark-III</code> which is a high saturated and bright color with a distinguished contrast from color <code>dark-I</code>.
 </div>
 
 <br>
@@ -215,9 +215,9 @@ Lastly we have <code>dark#03</code> which is a high saturated and bright color w
 </div>
 <div>
 <strong>light is the accent color palette for the moonlight color theme.</strong><br>
-light is a yellow color variation that starts from color <code>accent#01</code> which is the brightest color form this color palette. <br> 
-Then it is followed by the real accent color <code>accent#02</code> which looks incredible with the night sky family as a background.<br>
-And finishing with color <code>accent#03</code> which is the darkest variation of this family.
+light is a yellow color variation that starts from color <code>accent-I</code> which is the brightest color form this color palette. <br> 
+Then it is followed by the real accent color <code>accent-II</code> which looks incredible with the night sky family as a background.<br>
+And finishing with color <code>accent-III</code> which is the darkest variation of this family.
 </div>
 
 <br>
@@ -229,5 +229,5 @@ And finishing with color <code>accent#03</code> which is the darkest variation o
 <strong>​Frills colors are different hues colors ranging almost like the rainbow colors...
 the main use is for parts that require adding colorful variations, but with the "Moonlighty" feeling.</strong><br>
 Frills are the last family in the moonlight color theme which holds six colors with high hue variations and is mostly used to give some life to the themed result.<br>
-Starting with color <code>color#01</code> which is more of a orangic youllowish color, followd by <code>color#02</code> which is more orangic than <code>color#01</code>, going to <code>color#03</code> which is a nice less saturated light pink, followed by <code>color#04</code> a bluish purpleic color that males a very nice contarst with the backgriund color variations, then going for <code>color#05</code> a less purplic turquoise color, which male a buetiful companation with <code>color#06</code> a light grassy green color.
+Starting with color <code>color-I</code> which is more of a orangic youllowish color, followd by <code>color-II</code> which is more orangic than <code>color-I</code>, going to <code>color-III</code> which is a nice less saturated light pink, followed by <code>color-IV</code> a bluish purpleic color that males a very nice contarst with the backgriund color variations, then going for <code>color-V</code> a less purplic turquoise color, which male a buetiful companation with <code>color-VI</code> a light grassy green color.
 </div>
