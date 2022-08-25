@@ -231,3 +231,6 @@ the main use is for parts that require adding colorful variations, but with the 
 Frills are the last family in the moonlight color theme which holds six colors with high hue variations and is mostly used to give some life to the themed result.<br>
 Starting with color <code>color-I</code> which is more of a orangic youllowish color, followd by <code>color-II</code> which is more orangic than <code>color-I</code>, going to <code>color-III</code> which is a nice less saturated light pink, followed by <code>color-IV</code> a bluish purpleic color that males a very nice contarst with the backgriund color variations, then going for <code>color-V</code> a less purplic turquoise color, which male a buetiful companation with <code>color-VI</code> a light grassy green color.
 </div>
+<div align= "center">
+<img src="https://i.imgur.com/NXlMDsX.png" width=100%>
+</div>
