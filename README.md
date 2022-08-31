@@ -6,11 +6,14 @@
 <h2 align="center"> <b>Moonlight</b> </h2>
 <p align="center">A color theme inspired by the camping vibe 🏕</p>
 <div align="center">
+<a href="https://moonlight.nicepage.io">
+<img  src="https://i.imgur.com/TGt9Aop.png" width = 20rem />
+</a> &nbsp&nbsp&nbsp
 <a href="https://twitter.com/ColorMoonlight">
 <img  src="https://i.imgur.com/8ITOrFV.png" width = 20rem />
 </a> &nbsp&nbsp&nbsp
-<a href="https://moonlight.nicepage.io">
-<img  src="https://i.imgur.com/TGt9Aop.png" width = 20rem />
+<a href="https://discord.gg/E6kbQnfHNy">
+<img  src="https://i.imgur.com/GxEn6nv.png" width = 20rem />
 </a>
 </div>
 <br>
