@@ -16,10 +16,16 @@
 <img  src="https://i.imgur.com/GxEn6nv.png" width = 20rem />
 </a>
 </div>
-<br>
+<be>
+<p>
+A camping-vibes, dark-blue, dark yellow color palette.<br>
+Created to keep your workspace clean and minimal, with well-designed contrasted colors, and a convenient palette...<br>
+Consisting of three dark soft blue colors followed by three contrary light colors, and a dark yellow accent color with brightness variation, finished with a frill coloring to the palette to give it the shine...<br>
+Picking these colors was accompanied by care for the color-coding potential, the convenience of coordination, and the eye-comfortability...
+</p>
 <p >
-One day I saw <a href="https://kbdfans.com/products/ic-gmk-moonlight">Moonlight GMK keycaps</a>, and I somehow fall in love with the colors, so I decided to make a color theme and call it Moonlight and this is the Moonlight color theme birth story.<br>
-after a while, I made some wallpapers and then designed some themes for several ports all have moonlight colors in common, then I came up with this color theme...
+One day I saw <a href="https://kbdfans.com/products/ic-gmk-moonlight">Moonlight GMK keycaps</a>, and I somehow fell in love with the colors, so I decided to make a color theme and call it Moonlight and this is the Moonlight color theme birth story.<br>
+after a while, I made some wallpapers and then designed some themes for several ports that all have moonlight colors in common, then I came up with this color theme...
 <br>
 </p>
 <!-- <img  src="https://i.imgur.com/V3XZCDS.png" width = 100% /> -->
@@ -196,7 +202,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <strong>White moon is the Light color palette that can mostly be used as the text color.</strong><br>
  So color <code>light-I</code> is the brightest one that can be used primarily as font color or as a background for white color themes.<br>
  While color <code>light-II</code> is a bit more bluish to add some variation to the light colors.<br> 
- On the other side color <code>light-III</code> is a bit more orange "hotter" color which serve the same purpose as color <code>light-II</code>.
+ On the other side color <code>light-III</code> is a bit more orange "hotter" color which serves the same purpose as color <code>light-II</code>.
 </div>
 
 <br>
@@ -206,9 +212,9 @@ after a while, I made some wallpapers and then designed some themes for several 
 </div>
 <div>
 <strong>Night Sky is the primary dark color palette for the Moonlight color theme.</strong><br>
-Night Sky palette consists of three colors ranging from <code>dark-I</code> a dark bluish color that is very useful for an eye comfortable dark theme background. <br>
+Night Sky palette consists of three colors ranging from <code>dark-I</code> a dark bluish color that is very useful for an eye-comfortable dark theme background. <br>
 While <code>dark-II</code> is a bit much brighter than <code>dark-I</code>.<br>
-Lastly we have <code>dark-III</code> which is a high saturated and bright color with a distinguished contrast from color <code>dark-I</code>.
+Lastly, we have <code>dark-III</code> which is a highly saturated and bright color with a distinguished contrast from color <code>dark-I</code>.
 </div>
 
 <br>
@@ -217,7 +223,7 @@ Lastly we have <code>dark-III</code> which is a high saturated and bright color 
 <kbd>colors from 07 to 09</kbd>
 </div>
 <div>
-<strong>light is the accent color palette for the moonlight color theme.</strong><br>
+<strong> Light is the accent color palette for the moonlight color theme.</strong><br>
 light is a yellow color variation that starts from color <code>accent-I</code> which is the brightest color form this color palette. <br> 
 Then it is followed by the real accent color <code>accent-II</code> which looks incredible with the night sky family as a background.<br>
 And finishing with color <code>accent-III</code> which is the darkest variation of this family.
@@ -232,7 +238,7 @@ And finishing with color <code>accent-III</code> which is the darkest variation 
 <strong>​Frills colors are different hues colors ranging almost like the rainbow colors...
 the main use is for parts that require adding colorful variations, but with the "Moonlighty" feeling.</strong><br>
 Frills are the last family in the moonlight color theme which holds six colors with high hue variations and is mostly used to give some life to the themed result.<br>
-Starting with color <code>color-I</code> which is more of a orangic youllowish color, followd by <code>color-II</code> which is more orangic than <code>color-I</code>, going to <code>color-III</code> which is a nice less saturated light pink, followed by <code>color-IV</code> a bluish purpleic color that males a very nice contarst with the backgriund color variations, then going for <code>color-V</code> a less purplic turquoise color, which male a buetiful companation with <code>color-VI</code> a light grassy green color.
+Starting with color <code>color-I</code> which is more of a orangic yellowish color, followed by <code>color-II</code> which is more orangic than <code>color-I</code>, going to <code>color-III</code> which is a nice less saturated light pink, followed by <code>color-IV</code> a bluish purplic color that makes a very nice contrast with the background color variations, then going for <code>color-V</code> a less purplic turquoise color, which make a beautiful combination with <code>color-VI</code> a light grassy green color.
 </div>
 <div align= "center">
 <img src="https://i.imgur.com/NXlMDsX.png" width=100%>
