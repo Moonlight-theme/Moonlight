@@ -37,6 +37,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <th class="column1"><img src="https://i.imgur.com/msQffZ3.png" width="22px"  style="margin: 10px;"></th>
 <th class="column1">#</th>
 <th class="column1">Color name</th>
+<th class="column1">root name</th>
 <th class="column2">HEX</th>
 <th class="column3">RGB</th>
 <th class="column4">HSL</th>
@@ -49,6 +50,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/2bF5ug6.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">01</td>
 <td class="column1">light-I</td>
+<td class="column1">moonlight-l-i</td>
 <td class="column2">#c0cedd</td>
 <td class="column3">rgb(192, 206, 221)</td>
 <td class="column4">hsl(211, 30%, 81%)</td>
@@ -58,6 +60,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/z0W2XMH.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">02</td>
 <td class="column1">light-II</td>
+<td class="column1">moonlight-l-ii</td>
 <td class="column2">#99a0a8</td>
 <td class="column3">rgb(153, 160, 168)</td>
 <td class="column4">hsl(212, 8%, 63%)</td>
@@ -67,6 +70,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/Twx341h.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">03</td>
 <td class="column1">light-III</td>
+<td class="column1">moonlight-l-iii</td>
 <td class="column2">#c6c3c0</td>
 <td class="column3">rgb(198, 195, 192)</td>
 <td class="column4">hsl(30, 5%, 76%)</td>
@@ -76,6 +80,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/8ewKu6L.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">04</td>
 <td class="column1">dark-I</td>
+<td class="column1">moonlight-d-i</td>
 <td class="column2">#191f28</td>
 <td class="column3">rgb(25, 31, 40)</td>
 <td class="column4">hsl(216, 23%, 13%)</td>
@@ -86,6 +91,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/Qm4ACUe.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">05</td>
 <td class="column1">dark-II</td>
+<td class="column1">moonlight-d-ii</td>
 <td class="column2">#1f2730</td>
 <td class="column3">rgb(31, 39, 48)</td>
 <td class="column4">hsl(212, 22%, 15%)</td>
@@ -95,6 +101,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/sDOQZsK.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">06</td>
 <td class="column1">dark-III</td>
+<td class="column1">moonlight-d-iii</td>
 <td class="column2">#374656</td>
 <td class="column3">rgb(55, 70, 86)</td>
 <td class="column4">hsl(211, 22%, 28%)</td>
@@ -104,6 +111,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/31VQs7M.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">07</td>
 <td class="column1">accent-I</td>
+<td class="column1">moonlight-a-i</td>
 <td class="column2">#ecbd7c</td>
 <td class="column3">rgb(236, 189, 124)</td>
 <td class="column4">hsl(35, 75%, 71%)</td>
@@ -114,6 +122,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/5829KFR.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">08</td>
 <td class="column1">accent-II</td>
+<td class="column1">moonlight-a-ii</td>
 <td class="column2">#c69f68</td>
 <td class="column3">rgb(198, 159, 104)</td>
 <td class="column4">hsl(35, 45%, 59%)</td>
@@ -124,6 +133,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/fSAUHeb.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">09</td>
 <td class="column1">accent-III</td>
+<td class="column1">moonlight-a-iii</td>
 <td class="column2">#93764d</td>
 <td class="column3">rgb(147, 118, 77)</td>
 <td class="column4">hsl(35, 31%, 44%)</td>
@@ -134,6 +144,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/ObXYagt.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">10</td>
 <td class="column1">color-I</td>
+<td class="column1">moonlight-c-i</td>
 <td class="column2">#c68768</td>
 <td class="column3">rgb(198, 135, 104)</td>
 <td class="column4">hsl(20, 45%, 59%)</td>
@@ -144,6 +155,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/KOOqqmH.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">11</td>
 <td class="column1">color-II</td>
+<td class="column1">moonlight-c-ii</td>
 <td class="column2">#c66868</td>
 <td class="column3">rgb(198, 104, 104)</td>
 <td class="column4">hsl(0, 45%, 59%)</td>
@@ -154,6 +166,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/HbmgcUc.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">12</td>
 <td class="column1">color-III</td>
+<td class="column1">moonlight-c-iii</td>
 <td class="column2">#c66890</td>
 <td class="column3">rgb(198, 104, 144)</td>
 <td class="column4">hsl(334, 45%, 59%)</td>
@@ -164,6 +177,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/MHUboCJ.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">13</td>
 <td class="column1">color-IV</td>
+<td class="column1">moonlight-c-iv</td>
 <td class="column2">#6880c6</td>
 <td class="column3">rgb(104, 128, 198)</td>
 <td class="column4">hsl(225, 45%, 59%)</td>
@@ -174,6 +188,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/yo3Np9o.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">14</td>
 <td class="column1">color-V</td>
+<td class="column1">moonlight-c-v</td>
 <td class="column2">#68aec6</td>
 <td class="column3">rgb(104, 174, 198)</td>
 <td class="column4">hsl(195, 45%, 59%)</td>
@@ -184,6 +199,7 @@ after a while, I made some wallpapers and then designed some themes for several 
 <td class="column1"><img src="https://i.imgur.com/rvqHrxn.png" width="22px"  style="margin: 10px;"></td>
 <td class="column1">15</td>
 <td class="column1">color-VI</td>
+<td class="column1">moonlight-c-vi</td>
 <td class="column2">#9fc76d</td>
 <td class="column3">rgb(159, 199, 109)</td>
 <td class="column4">hsl(87, 45%, 60%)</td>
